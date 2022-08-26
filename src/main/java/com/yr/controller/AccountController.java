@@ -19,11 +19,8 @@ import java.util.List;
  * @since 2021-12-03
  */
 @Controller
-//@RestController
 public class AccountController {
 
-    //lfjsdlkfjslkjfkldjflksjhfisdfsdfjsdjhfldfghslekjfliksdjflksejfkisajklrfhskfjkhrkjshfkjhfkjhfkshf
-    
     @Autowired
     private IAccountService iAccountService;
 
