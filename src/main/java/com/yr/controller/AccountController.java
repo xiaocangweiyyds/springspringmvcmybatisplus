@@ -21,8 +21,6 @@ import java.util.List;
 @Controller
 public class AccountController {
 
-    //牛爷爷来了
-    
     @Autowired
     private IAccountService iAccountService;
 
