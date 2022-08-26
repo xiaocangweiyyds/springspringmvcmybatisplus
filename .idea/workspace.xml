@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a5774d93-ff1e-4341-b29d-1d285aaad57b" name="Changes" comment="" />
+    <list default="true" id="a5774d93-ff1e-4341-b29d-1d285aaad57b" name="Changes" comment="11111111111111111111111ddd" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +13,9 @@
   <component name="CompilerWorkspaceConfiguration">
     <option name="MAKE_PROJECT_ON_SAVE" value="true" />
     <option name="PARALLEL_COMPILATION" value="true" />
+  </component>
+  <component name="Git.Merge.Settings">
+    <option name="BRANCH" value="origin/master" />
   </component>
   <component name="Git.Settings">
     <option name="PATH_TO_GIT" value="G:\Git\cmd\git.exe" />
@@ -36,10 +39,14 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="$PROJECT_DIR$/../../AndroidSDK" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -51,8 +58,89 @@
       <updated>1661431292184</updated>
       <workItem from="1661431294480" duration="304000" />
       <workItem from="1661431822078" duration="42000" />
-      <workItem from="1661431866983" duration="1113000" />
+      <workItem from="1661431866983" duration="2700000" />
+      <workItem from="1661478337371" duration="2752000" />
+      <workItem from="1661483360409" duration="605000" />
+      <workItem from="1661483978718" duration="776000" />
     </task>
+    <task id="LOCAL-00001" summary="aaa">
+      <created>1661482353881</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1661482353881</updated>
+    </task>
+    <task id="LOCAL-00002" summary="aaa">
+      <created>1661482509163</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1661482509163</updated>
+    </task>
+    <task id="LOCAL-00003" summary="11111111111">
+      <created>1661482633683</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1661482633683</updated>
+    </task>
+    <task id="LOCAL-00004" summary="1111111ddddd">
+      <created>1661482691922</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1661482691922</updated>
+    </task>
+    <task id="LOCAL-00005" summary="1111111111111111111111">
+      <created>1661482742774</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1661482742774</updated>
+    </task>
+    <task id="LOCAL-00006" summary="11111111111111111111111">
+      <created>1661483330575</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1661483330575</updated>
+    </task>
+    <task id="LOCAL-00007" summary="11111111111111111111111">
+      <created>1661483372281</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1661483372281</updated>
+    </task>
+    <task id="LOCAL-00008" summary="11111111111111111111111ddd">
+      <created>1661483387807</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1661483387807</updated>
+    </task>
+    <task id="LOCAL-00009" summary="11111111111111111111111ddd">
+      <created>1661483434067</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1661483434067</updated>
+    </task>
+    <task id="LOCAL-00010" summary="11111111111111111111111ddd">
+      <created>1661484490795</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1661484490795</updated>
+    </task>
+    <task id="LOCAL-00011" summary="11111111111111111111111ddd">
+      <created>1661484732851</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1661484732851</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -63,7 +151,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -72,5 +172,12 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="SHOW_DIRTY_RECURSIVELY" value="true" />
+    <MESSAGE value="aaa" />
+    <MESSAGE value="11111111111" />
+    <MESSAGE value="1111111ddddd" />
+    <MESSAGE value="1111111111111111111111" />
+    <MESSAGE value="11111111111111111111111" />
+    <MESSAGE value="11111111111111111111111ddd" />
+    <option name="LAST_COMMIT_MESSAGE" value="11111111111111111111111ddd" />
   </component>
 </project>
